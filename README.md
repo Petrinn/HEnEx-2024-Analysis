@@ -92,7 +92,7 @@ openpyxl
 
 ## Acknowledgements
 
-This project was completed as part of a Big Blue Academy exercise.
+This project was completed as gitpart of a Big Blue Academy exercise.
 
 ## License
 
